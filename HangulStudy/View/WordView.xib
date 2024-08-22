@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="WordView" customModule="HangulStudy" customModuleProvider="target">
+            <connections>
+                <outlet property="tImageView" destination="SSu-uL-Db4" id="Q6N-VO-45Z"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="200" height="200"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Re7-Sr-eoj">
+                    <rect key="frame" x="0.0" y="0.0" width="200" height="1"/>
+                    <color key="backgroundColor" red="0.74509803921568629" green="0.74509803921568629" blue="0.74509803921568629" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="pQG-hM-IbF"/>
+                    </constraints>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="KYF-FH-ajs">
+                    <rect key="frame" x="0.0" y="199" width="200" height="1"/>
+                    <color key="backgroundColor" red="0.74509803921568629" green="0.74509803921568629" blue="0.74509803921568629" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="fah-fH-UYo"/>
+                    </constraints>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="f6g-ob-k8H">
+                    <rect key="frame" x="0.0" y="0.0" width="1" height="200"/>
+                    <color key="backgroundColor" red="0.74509803921568629" green="0.74509803921568629" blue="0.74509803921568629" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="1" id="pUJ-0h-7yd"/>
+                    </constraints>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lIR-aq-Fdl">
+                    <rect key="frame" x="23" y="142" width="0.0" height="0.0"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="f3v-gr-X19">
+                    <rect key="frame" x="199" y="0.0" width="1" height="200"/>
+                    <color key="backgroundColor" red="0.74509803921568629" green="0.74509803921568629" blue="0.74509803921568629" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="1" id="ZN9-eL-R33"/>
+                    </constraints>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="SSu-uL-Db4">
+                    <rect key="frame" x="1" y="1" width="198" height="198"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="f3v-gr-X19" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="8ox-X2-e6O"/>
+                <constraint firstItem="SSu-uL-Db4" firstAttribute="top" secondItem="Re7-Sr-eoj" secondAttribute="bottom" id="Dvu-JJ-PqU"/>
+                <constraint firstItem="f3v-gr-X19" firstAttribute="leading" secondItem="SSu-uL-Db4" secondAttribute="trailing" id="Fwx-qU-GMO"/>
+                <constraint firstItem="f6g-ob-k8H" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="J9t-m6-f6X"/>
+                <constraint firstItem="KYF-FH-ajs" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="JAf-Gh-vGI"/>
+                <constraint firstAttribute="bottom" secondItem="KYF-FH-ajs" secondAttribute="bottom" id="Jc7-or-zwK"/>
+                <constraint firstItem="f6g-ob-k8H" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="KyI-O6-3TO"/>
+                <constraint firstItem="KYF-FH-ajs" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="R7r-xc-VhB"/>
+                <constraint firstItem="SSu-uL-Db4" firstAttribute="leading" secondItem="f6g-ob-k8H" secondAttribute="trailing" id="b5d-WY-HHG"/>
+                <constraint firstItem="Re7-Sr-eoj" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="feV-Lq-tEK"/>
+                <constraint firstItem="KYF-FH-ajs" firstAttribute="top" secondItem="SSu-uL-Db4" secondAttribute="bottom" id="gHw-Ea-Fta"/>
+                <constraint firstAttribute="trailing" secondItem="f3v-gr-X19" secondAttribute="trailing" id="pkp-mv-jkM"/>
+                <constraint firstItem="Re7-Sr-eoj" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="qyh-4Z-0Yq"/>
+                <constraint firstItem="f3v-gr-X19" firstAttribute="height" secondItem="iN0-l3-epB" secondAttribute="height" id="rXa-Yh-Raw"/>
+                <constraint firstItem="Re7-Sr-eoj" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="tXZ-ss-k7G"/>
+                <constraint firstItem="f6g-ob-k8H" firstAttribute="height" secondItem="iN0-l3-epB" secondAttribute="height" id="v4B-4s-cY9"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="137.68115942028987" y="152.67857142857142"/>
+        </view>
+    </objects>
+</document>

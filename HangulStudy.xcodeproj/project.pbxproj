@@ -1819,11 +1819,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1.0.0;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = L75C42574S;
+				DEVELOPMENT_TEAM = L75C42574S;
 				INFOPLIST_FILE = HangulStudy/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "소리한글STUDY";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
@@ -1835,7 +1833,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.sour.korean;
 				PRODUCT_NAME = "소라한글STUDY";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = sour;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -1851,11 +1848,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1.0.0;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = L75C42574S;
+				DEVELOPMENT_TEAM = L75C42574S;
 				INFOPLIST_FILE = HangulStudy/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "소리한글STUDY";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
@@ -1867,7 +1862,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.sour.korean;
 				PRODUCT_NAME = "소라한글STUDY";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = sour;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;

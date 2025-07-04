@@ -1,0 +1,417 @@
+
+/* Class = "UIButton"; normalTitle = "ㅒ"; ObjectID = "0hr-ie-I9t"; */
+"0hr-ie-I9t.normalTitle" = "ㅒ";
+
+/* Class = "UILabel"; text = "筆順に従って書いてみましょう!"; ObjectID = "17I-Ta-yk4"; */
+"17I-Ta-yk4.text" = "筆順に従って書いてみましょう!";
+
+/* Class = "UIButton"; normalTitle = "다"; ObjectID = "1zA-bo-BlO"; */
+"1zA-bo-BlO.normalTitle" = "다";
+
+/* Class = "UIButton"; normalTitle = "クリア"; ObjectID = "2Iq-KU-zNF"; */
+"2Iq-KU-zNF.normalTitle" = "クリア";
+
+/* Class = "UIButton"; normalTitle = "차"; ObjectID = "2ho-XA-Lkb"; */
+"2ho-XA-Lkb.normalTitle" = "차";
+
+/* Class = "UILabel"; text = "자음"; ObjectID = "3T3-nO-abC"; */
+"3T3-nO-abC.text" = "자음";
+
+/* Class = "UILabel"; text = "韓国語の授業"; ObjectID = "3Tg-2M-3x5"; */
+"3Tg-2M-3x5.text" = "韓国語の授業";
+
+/* Class = "UILabel"; text = "Case 3"; ObjectID = "3VE-xb-vIh"; */
+"3VE-xb-vIh.text" = "Case 3";
+
+/* Class = "UILabel"; text = "까 ~ 짜"; ObjectID = "3VN-Kc-ytc"; */
+"3VN-Kc-ytc.text" = "까 ~ 짜";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "3ah-Qe-Jjh"; */
+"3ah-Qe-Jjh.normalTitle" = "가";
+
+/* Class = "UILabel"; text = "(a)"; ObjectID = "4cc-Ly-xIh"; */
+"4cc-Ly-xIh.text" = "(a)";
+
+/* Class = "UIButton"; normalTitle = "라"; ObjectID = "4qP-dk-liJ"; */
+"4qP-dk-liJ.normalTitle" = "라";
+
+/* Class = "UIButton"; normalTitle = "라"; ObjectID = "5nC-No-m5q"; */
+"5nC-No-m5q.normalTitle" = "라";
+
+/* Class = "UIButton"; normalTitle = "ㄸ"; ObjectID = "5uF-jW-ZCu"; */
+"5uF-jW-ZCu.normalTitle" = "ㄸ";
+
+/* Class = "UIButton"; normalTitle = "ㅞ"; ObjectID = "5yK-nH-kz7"; */
+"5yK-nH-kz7.normalTitle" = "ㅞ";
+
+/* Class = "UIButton"; normalTitle = "ㅇ"; ObjectID = "6DL-sD-JxZ"; */
+"6DL-sD-JxZ.normalTitle" = "ㅇ";
+
+/* Class = "UIButton"; normalTitle = "ㅕ"; ObjectID = "6tr-p8-8FY"; */
+"6tr-p8-8FY.normalTitle" = "ㅕ";
+
+/* Class = "UILabel"; text = "基本子音"; ObjectID = "7HO-pY-xaT"; */
+"7HO-pY-xaT.text" = "基本子音";
+
+/* Class = "UILabel"; text = "(a)"; ObjectID = "7qi-f0-CTX"; */
+"7qi-f0-CTX.text" = "(a)";
+
+/* Class = "UIButton"; normalTitle = "ㅡ"; ObjectID = "7zt-s1-sPg"; */
+"7zt-s1-sPg.normalTitle" = "ㅡ";
+
+/* Class = "UIButton"; normalTitle = "ㅍ"; ObjectID = "8Bx-ot-fTr"; */
+"8Bx-ot-fTr.normalTitle" = "ㅍ";
+
+/* Class = "UIButton"; normalTitle = "初級"; ObjectID = "8CN-Gz-4cf"; */
+"8CN-Gz-4cf.normalTitle" = "初級";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "8Dx-up-cCE"; */
+"8Dx-up-cCE.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "ㄲ"; ObjectID = "99C-R7-2Gr"; */
+"99C-R7-2Gr.normalTitle" = "ㄲ";
+
+/* Class = "UIButton"; normalTitle = "ㅘ"; ObjectID = "9AB-Vh-Kbe"; */
+"9AB-Vh-Kbe.normalTitle" = "ㅘ";
+
+/* Class = "UILabel"; text = "가 ~ 하"; ObjectID = "9MS-K3-Tdf"; */
+"9MS-K3-Tdf.text" = "가 ~ 하";
+
+/* Class = "UILabel"; text = "そらと繋がる"; ObjectID = "AEU-cA-Got"; */
+"AEU-cA-Got.text" = "そらと繋がる";
+
+/* Class = "UIButton"; normalTitle = "라"; ObjectID = "Aox-o5-cow"; */
+"Aox-o5-cow.normalTitle" = "라";
+
+/* Class = "UILabel"; text = "学習する"; ObjectID = "BAq-hg-hX0"; */
+"BAq-hg-hX0.text" = "学習する";
+
+/* Class = "UIButton"; normalTitle = "ㅛ"; ObjectID = "CoU-s7-Dsa"; */
+"CoU-s7-Dsa.normalTitle" = "ㅛ";
+
+/* Class = "UIButton"; normalTitle = "ㅢ"; ObjectID = "DvV-0H-maJ"; */
+"DvV-0H-maJ.normalTitle" = "ㅢ";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "EIW-Vp-B5d"; */
+"EIW-Vp-B5d.normalTitle" = "가";
+
+/* Class = "UILabel"; text = "筆順に従って書いてみましょう!"; ObjectID = "G3K-6u-B7k"; */
+"G3K-6u-B7k.text" = "筆順に従って書いてみましょう!";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "GP2-31-oAS"; */
+"GP2-31-oAS.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "ㅆ"; ObjectID = "GQN-Iw-uBx"; */
+"GQN-Iw-uBx.normalTitle" = "ㅆ";
+
+/* Class = "UIButton"; normalTitle = "다"; ObjectID = "GTy-40-RI3"; */
+"GTy-40-RI3.normalTitle" = "다";
+
+/* Class = "UILabel"; text = "特殊母音"; ObjectID = "GUX-3M-OSA"; */
+"GUX-3M-OSA.text" = "特殊母音";
+
+/* Class = "UITabBarItem"; title = "練習問題 "; ObjectID = "Gfa-hv-GJD"; */
+"Gfa-hv-GJD.title" = "練習問題 ";
+
+/* Class = "UIButton"; normalTitle = "ㅣ"; ObjectID = "I71-He-Aqn"; */
+"I71-He-Aqn.normalTitle" = "ㅣ";
+
+/* Class = "UIButton"; normalTitle = "마"; ObjectID = "IBV-Pj-I2X"; */
+"IBV-Pj-I2X.normalTitle" = "마";
+
+/* Class = "UIButton"; normalTitle = "ㅚ"; ObjectID = "Iqb-h6-kHG"; */
+"Iqb-h6-kHG.normalTitle" = "ㅚ";
+
+/* Class = "UIButton"; normalTitle = "ㄷ"; ObjectID = "Jb6-9q-EqA"; */
+"Jb6-9q-EqA.normalTitle" = "ㄷ";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "Jrq-QE-ti9"; */
+"Jrq-QE-ti9.normalTitle" = "가";
+
+/* Class = "UILabel"; text = "가"; ObjectID = "Juf-eW-1Ry"; */
+"Juf-eW-1Ry.text" = "가";
+
+/* Class = "UIButton"; normalTitle = "YOUTUBE"; ObjectID = "KeQ-Tx-L5Y"; */
+"KeQ-Tx-L5Y.normalTitle" = "YOUTUBE";
+
+/* Class = "UIButton"; normalTitle = "다"; ObjectID = "Ktx-8O-XOu"; */
+"Ktx-8O-XOu.normalTitle" = "다";
+
+/* Class = "UIButton"; normalTitle = "ㅈ"; ObjectID = "LBk-ZD-m59"; */
+"LBk-ZD-m59.normalTitle" = "ㅈ";
+
+/* Class = "UIButton"; normalTitle = "자"; ObjectID = "LJM-K9-wCx"; */
+"LJM-K9-wCx.normalTitle" = "자";
+
+/* Class = "UILabel"; text = "特殊子音"; ObjectID = "MNE-UB-JXa"; */
+"MNE-UB-JXa.text" = "特殊子音";
+
+/* Class = "UILabel"; text = "Case 2"; ObjectID = "NBu-IH-tXA"; */
+"NBu-IH-tXA.text" = "Case 2";
+
+/* Class = "UILabel"; text = "基本母音"; ObjectID = "NIe-JY-KDF"; */
+"NIe-JY-KDF.text" = "基本母音";
+
+/* Class = "UIButton"; normalTitle = "카"; ObjectID = "NKQ-Pc-Ixm"; */
+"NKQ-Pc-Ixm.normalTitle" = "카";
+
+/* Class = "UILabel"; text = "問題の難易度"; ObjectID = "Og9-r5-sO9"; */
+"Og9-r5-sO9.text" = "問題の難易度";
+
+/* Class = "UILabel"; text = "강"; ObjectID = "PNu-F0-b0x"; */
+"PNu-F0-b0x.text" = "강";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "PcO-FY-dB2"; */
+"PcO-FY-dB2.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "ㅖ"; ObjectID = "QnD-jm-31g"; */
+"QnD-jm-31g.normalTitle" = "ㅖ";
+
+/* Class = "UIButton"; normalTitle = "ㅊ"; ObjectID = "Qr0-YZ-xwh"; */
+"Qr0-YZ-xwh.normalTitle" = "ㅊ";
+
+/* Class = "UIButton"; normalTitle = "高級"; ObjectID = "SOb-rQ-B01"; */
+"SOb-rQ-B01.normalTitle" = "高級";
+
+/* Class = "UILabel"; text = "모음"; ObjectID = "Stx-YX-1cm"; */
+"Stx-YX-1cm.text" = "모음";
+
+/* Class = "UILabel"; text = "正解!"; ObjectID = "SzD-xQ-bat"; */
+"SzD-xQ-bat.text" = "正解!";
+
+/* Class = "UIButton"; normalTitle = "타"; ObjectID = "TeD-II-Zsh"; */
+"TeD-II-Zsh.normalTitle" = "타";
+
+/* Class = "UILabel"; text = "Case 1"; ObjectID = "Tjm-96-MSf"; */
+"Tjm-96-MSf.text" = "Case 1";
+
+/* Class = "UILabel"; text = "子音"; ObjectID = "UKG-ez-Hdt"; */
+"UKG-ez-Hdt.text" = "子音";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "UPJ-GT-zBL"; */
+"UPJ-GT-zBL.normalTitle" = "가";
+
+/* Class = "UILabel"; text = "パッチム"; ObjectID = "WGl-c9-gkp"; */
+"WGl-c9-gkp.text" = "パッチム";
+
+/* Class = "UIButton"; normalTitle = "라"; ObjectID = "WPg-fC-ePD"; */
+"WPg-fC-ePD.normalTitle" = "라";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wlp-Rh-3rk"; */
+"Wlp-Rh-3rk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "마"; ObjectID = "WwY-L4-a2k"; */
+"WwY-L4-a2k.normalTitle" = "마";
+
+/* Class = "UIButton"; normalTitle = "ㅑ"; ObjectID = "YV8-CD-nOF"; */
+"YV8-CD-nOF.normalTitle" = "ㅑ";
+
+/* Class = "UIButton"; normalTitle = "나"; ObjectID = "YuN-rY-oil"; */
+"YuN-rY-oil.normalTitle" = "나";
+
+/* Class = "UIButton"; normalTitle = "따"; ObjectID = "Yul-DB-oy9"; */
+"Yul-DB-oy9.normalTitle" = "따";
+
+/* Class = "UILabel"; text = "11%"; ObjectID = "Zkh-hJ-PkR"; */
+"Zkh-hJ-PkR.text" = "11%";
+
+/* Class = "UIButton"; normalTitle = "다"; ObjectID = "aCA-Iu-gTT"; */
+"aCA-Iu-gTT.normalTitle" = "다";
+
+/* Class = "UIButton"; normalTitle = "라"; ObjectID = "bDb-Ek-ROL"; */
+"bDb-Ek-ROL.normalTitle" = "라";
+
+/* Class = "UIButton"; normalTitle = "ㅌ"; ObjectID = "cSt-q6-ksF"; */
+"cSt-q6-ksF.normalTitle" = "ㅌ";
+
+/* Class = "UIButton"; normalTitle = "ㅅ"; ObjectID = "cUG-9S-ESP"; */
+"cUG-9S-ESP.normalTitle" = "ㅅ";
+
+/* Class = "UIButton"; normalTitle = "ㅠ"; ObjectID = "dHk-ew-JDh"; */
+"dHk-ew-JDh.normalTitle" = "ㅠ";
+
+/* Class = "UIButton"; normalTitle = "ㅔ"; ObjectID = "dRq-D0-38a"; */
+"dRq-D0-38a.normalTitle" = "ㅔ";
+
+/* Class = "UIButton"; normalTitle = "나"; ObjectID = "e88-6N-Nsx"; */
+"e88-6N-Nsx.normalTitle" = "나";
+
+/* Class = "UIButton"; normalTitle = "ㄱ"; ObjectID = "e9q-dp-uVQ"; */
+"e9q-dp-uVQ.normalTitle" = "ㄱ";
+
+/* Class = "UIButton"; normalTitle = "ㅉ"; ObjectID = "eFS-tB-mQW"; */
+"eFS-tB-mQW.normalTitle" = "ㅉ";
+
+/* Class = "UIButton"; normalTitle = "パッチムガイド"; ObjectID = "ebG-nK-Hq6"; */
+"ebG-nK-Hq6.normalTitle" = "パッチムガイド";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "f9l-Cl-ydX"; */
+"f9l-Cl-ydX.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "짜"; ObjectID = "fag-ba-6bK"; */
+"fag-ba-6bK.normalTitle" = "짜";
+
+/* Class = "UIButton"; normalTitle = "마"; ObjectID = "fqs-AF-cUc"; */
+"fqs-AF-cUc.normalTitle" = "마";
+
+/* Class = "UILabel"; text = "가"; ObjectID = "fra-mR-f13"; */
+"fra-mR-f13.text" = "가";
+
+/* Class = "UILabel"; text = "母音"; ObjectID = "fwG-Ok-yNP"; */
+"fwG-Ok-yNP.text" = "母音";
+
+/* Class = "UIButton"; normalTitle = "마"; ObjectID = "gnq-I7-RwS"; */
+"gnq-I7-RwS.normalTitle" = "마";
+
+/* Class = "UITabBarItem"; title = "学習する"; ObjectID = "h6B-wg-YFa"; */
+"h6B-wg-YFa.title" = "学習する";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "hF8-b3-VR1"; */
+"hF8-b3-VR1.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "クリア"; ObjectID = "hYE-vI-dYa"; */
+"hYE-vI-dYa.normalTitle" = "クリア";
+
+/* Class = "UILabel"; text = "단어"; ObjectID = "hgg-7z-uDy"; */
+"hgg-7z-uDy.text" = "단어";
+
+/* Class = "UITabBarItem"; title = "ハングル練習"; ObjectID = "hhP-bn-LmA"; */
+"hhP-bn-LmA.title" = "ハングル練習";
+
+/* Class = "UIButton"; normalTitle = "クリア"; ObjectID = "hqv-ck-Yki"; */
+"hqv-ck-Yki.normalTitle" = "クリア";
+
+/* Class = "UIButton"; normalTitle = "나"; ObjectID = "iTg-3q-Boq"; */
+"iTg-3q-Boq.normalTitle" = "나";
+
+/* Class = "UIButton"; normalTitle = "라"; ObjectID = "ib5-8F-2hB"; */
+"ib5-8F-2hB.normalTitle" = "라";
+
+/* Class = "UILabel"; text = "받침"; ObjectID = "id1-uk-jXe"; */
+"id1-uk-jXe.text" = "받침";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "ih8-Se-wg4"; */
+"ih8-Se-wg4.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "다"; ObjectID = "jHD-vo-Jbr"; */
+"jHD-vo-Jbr.normalTitle" = "다";
+
+/* Class = "UIButton"; normalTitle = "ㅎ"; ObjectID = "jNE-GC-B1q"; */
+"jNE-GC-B1q.normalTitle" = "ㅎ";
+
+/* Class = "UIButton"; normalTitle = "中級"; ObjectID = "jhp-NA-H5E"; */
+"jhp-NA-H5E.normalTitle" = "中級";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "jnG-8a-JPX"; */
+"jnG-8a-JPX.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "마"; ObjectID = "jri-Ke-aAU"; */
+"jri-Ke-aAU.normalTitle" = "마";
+
+/* Class = "UIButton"; normalTitle = "까"; ObjectID = "k5m-mD-1Lo"; */
+"k5m-mD-1Lo.normalTitle" = "까";
+
+/* Class = "UIButton"; normalTitle = "나"; ObjectID = "kPv-0g-rxe"; */
+"kPv-0g-rxe.normalTitle" = "나";
+
+/* Class = "UIButton"; normalTitle = "ㅂ"; ObjectID = "kq3-I4-IzT"; */
+"kq3-I4-IzT.normalTitle" = "ㅂ";
+
+/* Class = "UIButton"; normalTitle = "ㄹ"; ObjectID = "lPK-iG-vF2"; */
+"lPK-iG-vF2.normalTitle" = "ㄹ";
+
+/* Class = "UILabel"; text = "パッチムガイド"; ObjectID = "lmh-16-vpw"; */
+"lmh-16-vpw.text" = "パッチムガイド";
+
+/* Class = "UIButton"; normalTitle = "바"; ObjectID = "lmq-0h-fez"; */
+"lmq-0h-fez.normalTitle" = "바";
+
+/* Class = "UILabel"; text = "韓国語の授業"; ObjectID = "mSo-w9-vnh"; */
+"mSo-w9-vnh.text" = "韓国語の授業";
+
+/* Class = "UIButton"; normalTitle = "나"; ObjectID = "nb1-f0-hhd"; */
+"nb1-f0-hhd.normalTitle" = "나";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nlL-6b-1oW"; */
+"nlL-6b-1oW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "クリア"; ObjectID = "nnr-xe-NMF"; */
+"nnr-xe-NMF.normalTitle" = "クリア";
+
+/* Class = "UIButton"; normalTitle = "ㅙ"; ObjectID = "oLJ-jQ-dAr"; */
+"oLJ-jQ-dAr.normalTitle" = "ㅙ";
+
+/* Class = "UIButton"; normalTitle = "ㅝ"; ObjectID = "oVd-jQ-0gm"; */
+"oVd-jQ-0gm.normalTitle" = "ㅝ";
+
+/* Class = "UIButton"; normalTitle = "ㅓ"; ObjectID = "oyn-NB-3x6"; */
+"oyn-NB-3x6.normalTitle" = "ㅓ";
+
+/* Class = "UIButton"; normalTitle = "ㄴ"; ObjectID = "pVQ-sK-i2e"; */
+"pVQ-sK-i2e.normalTitle" = "ㄴ";
+
+/* Class = "UILabel"; text = "単語"; ObjectID = "pks-tM-5Us"; */
+"pks-tM-5Us.text" = "単語";
+
+/* Class = "UIButton"; normalTitle = "ㅜ"; ObjectID = "qKW-d3-csC"; */
+"qKW-d3-csC.normalTitle" = "ㅜ";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "rV5-H3-ObH"; */
+"rV5-H3-ObH.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "싸"; ObjectID = "rqr-vR-1jL"; */
+"rqr-vR-1jL.normalTitle" = "싸";
+
+/* Class = "UIButton"; normalTitle = "ㅏ"; ObjectID = "sEQ-Sf-9Z6"; */
+"sEQ-Sf-9Z6.normalTitle" = "ㅏ";
+
+/* Class = "UIButton"; normalTitle = "ㅟ"; ObjectID = "sRs-rz-wNT"; */
+"sRs-rz-wNT.normalTitle" = "ㅟ";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "tRx-o7-N6X"; */
+"tRx-o7-N6X.normalTitle" = "가";
+
+/* Class = "UIButton"; normalTitle = "ㅃ"; ObjectID = "u7S-pe-4U7"; */
+"u7S-pe-4U7.normalTitle" = "ㅃ";
+
+/* Class = "UIButton"; normalTitle = "나"; ObjectID = "uaT-9M-tRV"; */
+"uaT-9M-tRV.normalTitle" = "나";
+
+/* Class = "UIButton"; normalTitle = "ㅋ"; ObjectID = "v9M-RU-PlD"; */
+"v9M-RU-PlD.normalTitle" = "ㅋ";
+
+/* Class = "UIButton"; normalTitle = "다"; ObjectID = "vcy-1r-hM6"; */
+"vcy-1r-hM6.normalTitle" = "다";
+
+/* Class = "UIButton"; normalTitle = "파"; ObjectID = "vqC-ax-Knd"; */
+"vqC-ax-Knd.normalTitle" = "파";
+
+/* Class = "UIButton"; normalTitle = "ㅐ"; ObjectID = "wql-h4-fj3"; */
+"wql-h4-fj3.normalTitle" = "ㅐ";
+
+/* Class = "UIButton"; normalTitle = "사"; ObjectID = "wtY-CA-KlU"; */
+"wtY-CA-KlU.normalTitle" = "사";
+
+/* Class = "UIButton"; normalTitle = "아"; ObjectID = "x7U-bF-P4E"; */
+"x7U-bF-P4E.normalTitle" = "아";
+
+/* Class = "UIButton"; normalTitle = "가"; ObjectID = "xL5-DB-vJH"; */
+"xL5-DB-vJH.normalTitle" = "가";
+
+/* Class = "UILabel"; text = "学習進度"; ObjectID = "xrJ-pO-zMy"; */
+"xrJ-pO-zMy.text" = "学習進度";
+
+/* Class = "UIButton"; normalTitle = "마"; ObjectID = "yeF-9M-eVO"; */
+"yeF-9M-eVO.normalTitle" = "마";
+
+/* Class = "UIButton"; normalTitle = "빠"; ObjectID = "z46-GH-zl7"; */
+"z46-GH-zl7.normalTitle" = "빠";
+
+/* Class = "UIButton"; normalTitle = "ㅁ"; ObjectID = "zIf-8j-bVM"; */
+"zIf-8j-bVM.normalTitle" = "ㅁ";
+
+/* Class = "UIButton"; normalTitle = "하"; ObjectID = "zWx-Zh-QlI"; */
+"zWx-Zh-QlI.normalTitle" = "하";
+
+/* Class = "UIButton"; normalTitle = "ㅗ"; ObjectID = "zcO-kz-gFN"; */
+"zcO-kz-gFN.normalTitle" = "ㅗ";

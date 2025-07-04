@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		052336312C8DAB6C00506C60 /* InfoPlist.string.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0523362F2C8DAB6C00506C60 /* InfoPlist.string.strings */; };
 		215DF08B2C76D29900B03033 /* libPods-HangulStudy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 215DF08A2C76D29900B03033 /* libPods-HangulStudy.a */; };
 		4303612223CB7A2B004265A8 /* A17.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43035FF323CB7A17004265A8 /* A17.mp3 */; };
 		4303612323CB7A2B004265A8 /* C1D1EI20.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43035FF423CB7A17004265A8 /* C1D1EI20.mp3 */; };
@@ -377,8 +378,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0523362D2C8DAAC300506C60 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		0523362E2C8DAAC300506C60 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		052336332C8DABE200506C60 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/InfoPlist.string.strings; sourceTree = "<group>"; };
+		05947B692CA45F3300D29481 /* 한글소라 STUDY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "한글소라 STUDY.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		215DF08A2C76D29900B03033 /* libPods-HangulStudy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libPods-HangulStudy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		215DF08C2C76D6AE00B03033 /* 소라한글STUDY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "소라한글STUDY.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43035FF323CB7A17004265A8 /* A17.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = A17.mp3; sourceTree = "<group>"; };
 		43035FF423CB7A17004265A8 /* C1D1EI20.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = C1D1EI20.mp3; sourceTree = "<group>"; };
 		43035FF523CB7A17004265A8 /* A7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = A7.mp3; sourceTree = "<group>"; };
@@ -768,7 +772,7 @@
 				433750002337D4F50029B1D7 /* HangulStudy */,
 				98FBC2C7AF44933C6FED6C87 /* Pods */,
 				E231FE00BE7F7993CF69EEC0 /* Frameworks */,
-				215DF08C2C76D6AE00B03033 /* 소라한글STUDY.app */,
+				05947B692CA45F3300D29481 /* 한글소라 STUDY.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -787,6 +791,7 @@
 				433750082337D4F60029B1D7 /* Assets.xcassets */,
 				4337500A2337D4F60029B1D7 /* LaunchScreen.storyboard */,
 				4337500D2337D4F60029B1D7 /* Info.plist */,
+				0523362F2C8DAB6C00506C60 /* InfoPlist.string.strings */,
 			);
 			path = HangulStudy;
 			sourceTree = "<group>";
@@ -1229,7 +1234,7 @@
 			);
 			name = HangulStudy;
 			productName = HangulStudy;
-			productReference = 215DF08C2C76D6AE00B03033 /* 소라한글STUDY.app */;
+			productReference = 05947B692CA45F3300D29481 /* 한글소라 STUDY.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -1254,6 +1259,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
 			);
 			mainGroup = 43374FF52337D4F50029B1D7;
 			productRefGroup = 43374FF52337D4F50029B1D7;
@@ -1469,6 +1475,7 @@
 				430361E523CB7A2B004265A8 /* C2.mp3 in Resources */,
 				430361F823CB7A2B004265A8 /* D10.mp3 in Resources */,
 				430361EC23CB7A2B004265A8 /* H12.mp3 in Resources */,
+				052336312C8DAB6C00506C60 /* InfoPlist.string.strings in Resources */,
 				430361D823CB7A2B004265A8 /* N16.mp3 in Resources */,
 				4303618F23CB7A2B004265A8 /* O16.mp3 in Resources */,
 				430361F623CB7A2B004265A8 /* Q3.mp3 in Resources */,
@@ -1677,10 +1684,19 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		0523362F2C8DAB6C00506C60 /* InfoPlist.string.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				052336332C8DABE200506C60 /* ko */,
+			);
+			name = InfoPlist.string.strings;
+			sourceTree = "<group>";
+		};
 		433750052337D4F50029B1D7 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				433750062337D4F50029B1D7 /* Base */,
+				0523362D2C8DAAC300506C60 /* ko */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -1689,6 +1705,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4337500B2337D4F60029B1D7 /* Base */,
+				0523362E2C8DAAC300506C60 /* ko */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -1700,6 +1717,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1761,6 +1779,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1823,7 +1842,7 @@
 				CURRENT_PROJECT_VERSION = 1.0.0;
 				DEVELOPMENT_TEAM = L75C42574S;
 				INFOPLIST_FILE = HangulStudy/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "소리한글STUDY";
+				INFOPLIST_KEY_CFBundleDisplayName = "Sora Korean Study";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1831,7 +1850,7 @@
 				);
 				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sour.korean;
-				PRODUCT_NAME = "소라한글STUDY";
+				PRODUCT_NAME = "한글소라 STUDY";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -1852,7 +1871,7 @@
 				CURRENT_PROJECT_VERSION = 1.0.0;
 				DEVELOPMENT_TEAM = L75C42574S;
 				INFOPLIST_FILE = HangulStudy/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "소리한글STUDY";
+				INFOPLIST_KEY_CFBundleDisplayName = "Sora Korean Study";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1860,7 +1879,7 @@
 				);
 				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sour.korean;
-				PRODUCT_NAME = "소라한글STUDY";
+				PRODUCT_NAME = "한글소라 STUDY";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
